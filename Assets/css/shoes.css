@@ -1,0 +1,11 @@
+body{
+    font-family: 'STIX Two Text', serif;
+    text-align: center;
+  }
+  html { 
+    background: url(https://www.desktopbackground.org/p/2011/05/11/201634_nike-shoes-wallpaper-hd-2858-3019-hd-wallpapers-jpg_3840x2400_h.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
