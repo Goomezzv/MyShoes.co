@@ -9,6 +9,6 @@ $(document).ready(function() {
         $("#medio").load("sales.html");
     });
     $("#home").click(function(){
-        $("#init").load("index.html");
+        $("#init").load("indix.html");
     });
 });
