@@ -8,7 +8,4 @@ $(document).ready(function() {
     $("#sales").click(function(){
         $("#medio").load("sales.html");
     });
-    $("#home").click(function(){
-        $("#init").load("indix.html");
-    });
 });
